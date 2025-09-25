@@ -4,4 +4,4 @@ This is the official PyTorch implementation of our work: **Exploiting Unlabeled 
 
 **Coming soon...**
 
-![main graph](./img/main_graph.png)
+![main graph](./img/main_graph.PNG)
